@@ -8,6 +8,8 @@ and thread programming
 * Adapter
 * Strategy 
 * Method template
+
+
 which are explained at the documentation
 ###
 
